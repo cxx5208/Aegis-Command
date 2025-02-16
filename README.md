@@ -3,6 +3,9 @@
 ## **🛡️ AI-Driven Mission Intelligence System**
 Aegis-Command is an advanced **AI-powered mission intelligence system** that provides **real-time squad monitoring, predictive analytics, and AI-driven tactical decision-making** to optimize readiness and enhance life-saving operations.
 
+<img width="1256" alt="image" src="https://github.com/user-attachments/assets/e7ddf0c2-0e25-45e5-89b8-090a9af0d005" />
+
+
 ## **🚀 Features**
 - **Squad Health Monitoring (Terra API + Garmin Watch Data)**
 - **AI-Powered Chatbot (Perplexity AI)**
