@@ -6,6 +6,8 @@
 *Revolutionizing real-time battlefield decision-making with AI-driven health monitoring, tactical intelligence, and multilingual communication.*
 
 ---
+![image](https://github.com/user-attachments/assets/8da05e7c-2f11-4d39-a908-0de6fdb566fa)
+
 
 ## **📌 Overview**  
 In modern warfare and tactical operations, **situational awareness, rapid response, and efficient resource allocation** are critical for mission success. Commanders and mission planners face **a flood of real-time data** from soldiers’ biometrics, squad movement, and battlefield conditions. The challenge is **not just collecting data but transforming it into actionable intelligence in real-time**.
