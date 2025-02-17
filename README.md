@@ -27,6 +27,20 @@ By integrating **Terra API for biometrics, Perplexity AI for contextual intellig
 
 ## **🛠 Key Features & Technical Innovations**  
 
+| **Component** | **Purpose** | **Technical Implementation** |
+|--------------|------------|------------------------------|
+| **Terra API** | Collects real-time biometric data (heart rate, hydration, fatigue) from wearable devices | Integrated via REST API, data streamed via WebSockets for real-time monitoring |
+| **Perplexity AI** | Provides AI-powered chatbot interactions, answering mission-related queries contextually | Uses custom embeddings and knowledge-base retrieval for contextual responses |
+| **OpenAI API** | Enhances decision-making by integrating language models for predictive insights | Fine-tuned GPT models for mission insights and tactical decision-making |
+| **Eleven Labs** | Enables real-time voice translation and commander voice cloning | Uses Eleven Labs API for high-fidelity voice cloning and real-time speech translation |
+| **Vercel** | Deploys the entire platform efficiently with auto-scaling and serverless capabilities | Utilizes Vercel v0's official OpenAI and Perplexity integrations for serverless AI inference |
+| **Next.js & TypeScript** | Frontend framework to build an interactive, fast, and scalable command dashboard | Built using React-based Next.js framework with Tailwind CSS and Shadcn UI components |
+| **WebSockets** | Ensures real-time data synchronization across squads and commanders | Full-duplex WebSocket connections for immediate data updates |
+| **AI-Driven Tactical Decision Making** | AI assesses battlefield conditions and suggests optimal squad strategies | Machine learning model processes biometric and environmental data to adapt strategies |
+| **Real-Time Biometric Monitoring** | Monitors soldier health conditions and raises alerts when anomalies occur | Preconfigured Terra API hooks stream health data into the platform for live tracking |
+| **Squad Optimization Algorithms** | Allocates soldiers dynamically based on their physical conditions and mission needs | Custom AI models analyze soldier fatigue, hydration, and performance metrics dynamically |
+
+
 ### **1️⃣ AI-Powered Soldier Health & Performance Tracking**  
 Maintaining soldier health is paramount in combat. Aegis Command uses **Terra API to track real-time biometrics**, including:  
 ✅ **Heart rate monitoring** – Detects anomalies in cardiovascular activity.  
