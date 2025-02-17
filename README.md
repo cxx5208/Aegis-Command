@@ -1,6 +1,6 @@
 
-<img width="1256" alt="image" src="https://github.com/user-attachments/assets/e7ddf0c2-0e25-45e5-89b8-090a9af0d005" />
-<img width="593" alt="image" src="https://github.com/user-attachments/assets/e907d267-1b89-410f-8234-6425eed0da46" /><img width="600" alt="image" src="https://github.com/user-attachments/assets/82aa46c3-a951-4a41-bc6f-828bf1cfbe4d" />
+
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/e907d267-1b89-410f-8234-6425eed0da46" /><img width="500" alt="image" src="https://github.com/user-attachments/assets/82aa46c3-a951-4a41-bc6f-828bf1cfbe4d" />
 
 # **Aegis Command – AI-Powered Mission Intelligence System**  
 *Revolutionizing real-time battlefield decision-making with AI-driven health monitoring, tactical intelligence, and multilingual communication.*
